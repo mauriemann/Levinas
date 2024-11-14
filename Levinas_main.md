@@ -44,7 +44,21 @@ Der jüdisch-litauische Philosoph Emmanuel Lévinas (1906-1995) ist einer der wi
 
 * In den beiden Wahlpflichtmodulen BA7 und BA8 sind aus den drei Gegenstandsbereichen Naturphilosophie, Kulturphilosophie und Wissenschaftsphilosophie zwei verschiedene Gegenstandsbereiche zu wählen. Bitte beachten Sie also: Der im Modul BA7 gewählte Gegenstandsbereich muss ein anderer sein als der im Modul BA8 gewählte Gegenstandsbereich!
 * Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
-* Referate: Gehen Sie davon aus, dass alle Teilnehmenden die Texte gelesen haben. Vermeiden Sie also eine bloße Inhaltsangabe. Versuchen Sie, den Argumentationszusammenhang herauszustellen und in den Kontext des Seminars einzubetten. Klären Sie Begriffe und stellen Sie gern auch einzelne Textpassagen ausführlicher dar, die Sie für besonders bezeichnend erachten. Im Umfang sollten 30 Minuten nicht überschritten werden. Die Erstellung eines Handouts und/oder einer Präsentation ist obligatorisch.
+
+
+## Hinweise zu Referaten
+
+* Beginnen Sie die Vorbereitung rechtzeitig, im Idealfall rund 4 Wochen vor dem Vortragstermin.
+* Lesen Sie die Textgrundlage gründlich, mehrfach und im Kontext.
+* Ziehen Sie Forschungsliteratur hinzu. Das Referat ist eine wissenschaftliche Arbeit.
+* Gehen Sie davon aus, dass alle Teilnehmenden die Texte gelesen haben. Vermeiden Sie also eine bloße Inhaltsangabe und stellen Sie Ihre Interpretation des Textes vor. 
+* Versuchen Sie, den Argumentationszusammenhang herauszustellen und in den Kontext des Seminars einzubetten. 
+* Klären Sie Begriffe und stellen Sie gern auch einzelne Textpassagen ausführlicher dar, die Sie für besonders bezeichnend erachten. 
+* Im Umfang sollten 30 Minuten nicht überschritten werden. Bei Partner:inennreferaten sollten alle Beteiligten für den Gesamtvortrag sprechfähig sein. Betrachten Sie also auch die Vorbereitung als Teamleistung.
+* Die Erstellung eines Handouts und/oder einer Präsentation ist obligatorisch.
+* Jede Referatsgruppe erstellt eine kleine Liste (ca. 1 Seite) mit Schlüsselbegriffen, Grundproblemen und Thesen für das Kursmaterial.
+
+
   
 
 ## Essay als Prüfungsart
