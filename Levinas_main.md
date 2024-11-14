@@ -34,7 +34,7 @@ Der jüdisch-litauische Philosoph Emmanuel Lévinas (1906-1995) ist einer der wi
 * PHF-phil-BA8 (Wahlpflichtmodul II: Kulturphilosophie)
 * PHF-phil-BA9 (Problemstellungen und Theorien der Gegenwartsphilosophie)
 * PHF-phil-BA10 (Forschungsorientiertes Abschlussmodul)
-* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
+* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft): Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit.
 
 **Allgemeine Hinweise**  
 
@@ -45,11 +45,7 @@ Der jüdisch-litauische Philosoph Emmanuel Lévinas (1906-1995) ist einer der wi
 * In den beiden Wahlpflichtmodulen BA7 und BA8 sind aus den drei Gegenstandsbereichen Naturphilosophie, Kulturphilosophie und Wissenschaftsphilosophie zwei verschiedene Gegenstandsbereiche zu wählen. Bitte beachten Sie also: Der im Modul BA7 gewählte Gegenstandsbereich muss ein anderer sein als der im Modul BA8 gewählte Gegenstandsbereich!
 * Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
 * Referate: Gehen Sie davon aus, dass alle Teilnehmenden die Texte gelesen haben. Vermeiden Sie also eine bloße Inhaltsangabe. Versuchen Sie, den Argumentationszusammenhang herauszustellen und in den Kontext des Seminars einzubetten. Klären Sie Begriffe und stellen Sie gern auch einzelne Textpassagen ausführlicher dar, die Sie für besonders bezeichnend erachten. Im Umfang sollten 30 Minuten nicht überschritten werden. Die Erstellung eines Handouts und/oder einer Präsentation ist obligatorisch.
- 
-## Essay 
-
-* PHF-Phil-WP Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit.
-
+  
 
 ## Essay als Prüfungsart
 
@@ -111,13 +107,13 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 7.11.2024 | Levinas, Emmanuel: Ist die Ontologie fundamental? In: ders.: Zwischen uns. Versuche über das Denken an den anderen. München 1995. S. 11-23. | -- |
 | 14.11.2024 | Levinas, Emmanuel: Ich und Totalität In: ders.: Zwischen uns. Versuche über das Denken an den anderen. München 1995. S. 24-55. | -- |
 | 21.11.2024 | Levinas, Emmanuel: Totalität und Unendlichkeit. Versuch über die Exteriorität. Übers. v. W.N.Krewani. Freiburg/München 1987. Vorwort S. 19-34. | -- |
-| 28.11.2024 | I A: Metaphysik und Transzendenz S. 35-66 | -- |
+| 28.11.2024 | I A: Metaphysik und Transzendenz S. 35-66 | Mette Jacobs, Sarah Eichert |
 | 5.12.2024 | Humanismus des anderen Menschen: Vorwort | -- |
-| 12.12.2024 | Die Bedeutung und der Sinn | -- |
-| 19.12.2024| Die Bedeutung und der Sinn | -- |
-| 9.01.2025 | Humanismus und An-archie | -- |
+| 12.12.2024 | Die Bedeutung und der Sinn | Despina Demiroğlu, Elaay Yildiz, Negin Restegar, Erik Beckmann |
+| 19.12.2024| Die Bedeutung und der Sinn | Despina Demiroğlu, Elaay Yildiz, Negin Restegar, Erik Beckmann |
+| 9.01.2025 | Humanismus und An-archie | Jona Bobelt, Louisa Westphal |
 | 16.01.2025 | Keine Sitzung: Selbststudium | -- |
-| 23.01.2025| Ohne Identität | -- |
+| 23.01.2025| Ohne Identität | Melisa Cibukkiran, Simeon Altemaier |
 | 30.01.2025| Puffersitzung | -- |
 | 6.2.2025 | **Abschlussdiskussion** |  |
 
